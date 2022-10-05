@@ -28,9 +28,9 @@ class NetoAPIClient:
             "endpoint": f"{self.base_url}{self.api_endpoint}",
             "params": request_params,
             "headers": {
-                "USERNAME": self.username,
-                "API_KEY": self.api_key,
-                "ACTION": action,
+                "NETOAPI_USERNAME": self.username,
+                "NETOAPI_KEY": self.api_key,
+                "NETOAPI_ACTION": action,
                 "Accept": "application/json",
                 "Content-Type": "application/json",
             },
