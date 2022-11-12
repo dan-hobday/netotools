@@ -33,7 +33,7 @@
 
 ## :dart: About ##
 
-A tool for working with Neto (Maropost) in Python. Contains modules for interacting directly with Neto's internal API as well as creating CSV's for the import wizard.  
+A tool for working with Neto (Maropost) in Python. Contains modules to help query Neto's internal API as well as creating CSV's for the import wizard.  
 
 ## :sparkles: Features ##
 
