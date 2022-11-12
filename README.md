@@ -1,13 +1,13 @@
 <h1 align="center">Netotools</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dphobday/netotools?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/dan-hobday/netotools?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dphobday/netotools?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/dan-hobday/netotools?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dphobday/netotools?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/dan-hobday/netotools?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/dphobday/netotools?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/dan-hobday/netotools?color=56BEB8">
 
 </p>
 
@@ -26,7 +26,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/dphobday" target="_blank">Author</a>
+  <a href="https://github.com/dan-hobday" target="_blank">Author</a>
 </p>
 
 <br>
@@ -58,7 +58,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com), [
 
 $ cd /my/install/location
 
-$ git clone https://github.com/dphobday/netotools
+$ git clone https://github.com/dan-hobday/netotools
 ```
 ## :computer: Use ##
 ```bash
